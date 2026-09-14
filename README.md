@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dorsajvdi 
-- 👀 I’m interested in front-end Developing
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in WordPress and front-end Developing
 - 📫 How to reach me doesajvdi@gmail.com
 - 😄 Pronouns: she/her
 
